@@ -5,6 +5,8 @@ package in.itsvenkis.scala.syntax.functions.curry
  */
 object CurryMain extends App{
   
+  //Test
+  
   val carRepair = new Car("Honda")
   val garage = new Garage
   
